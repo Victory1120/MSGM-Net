@@ -1,3 +1,20 @@
+# Synapse/CT liver thin/SegTHOR/Lung Cancer Dataset Handler
+
+This repository contains tools for processing the BraTS brain tumor segmentation dataset. Due to the large size of the dataset, it is not included in this repository. Follow the instructions below to download and prepare the data.
+
+## 🧠 Dataset Download
+
+1. **Access the Official BraTS Data:**
+   - Visit: [Multimodal Brain Tumor Segmentation Challenge 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
+   - Click _"Download BraTS 2018 Training Data"_
+   - Request access via the submission form
+
+2. **Download Files:**
+
+
+
+
+
 # BraTS Dataset Handler
 
 This repository contains tools for processing the BraTS brain tumor segmentation dataset. Due to the large size of the dataset, it is not included in this repository. Follow the instructions below to download and prepare the data.
